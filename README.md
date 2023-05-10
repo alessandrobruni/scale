@@ -4,7 +4,7 @@ This application retrieves the weight from Metler Toledo scales that are connect
 The weight is displayed in Barcode39 format, allowing operators to easily input the weight data into the SAP Business by Design interface during the production make phase whit a barcode reader. 
 The app is developed in Python 3.8.
 
-To create the executable, use `pyinstaller` in a virtual environment with the packages listed in the `requirements.txt` file.
+To create the executable, use `pyinstaller` in a virtual environment with the packages listed in the `src/requirements.txt` file.
 
 1. Open a terminal and go to the directory where you want to create the virtual environment.
 2. Use the following command to create a new virtual environment:
