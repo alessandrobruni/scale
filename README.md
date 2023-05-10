@@ -1,8 +1,8 @@
 # Retrieving weight from Metler Toledo scales 
 
-This application is designed to retrieve weight data from Metler Toledo scales that are connected via a serial port. The weight data is then displayed in Barcode39 format, making it easy for operators to input the weight information into the SAP Business by Design interface using a barcode reader during the production phase.
+This application is designed to retrieve weight data from Metler Toledo scales that are connected via a serial port. The weight data is then displayed in **Barcode39 format**, making it easy for operators to input the weight information into the **SAP Business by Design interface** using a barcode reader during the **production phase**.
 
-Developed using Python 3.8 and ChatGPT 4 this app is a user-friendly and efficient tool for streamlining the data input process in production. Its ability to retrieve weight data from the scales and display it in barcode format saves valuable time and reduces the risk of data entry errors.
+Developed using **Python 3.8** and **ChatGPT**, this app is a user-friendly and efficient tool for streamlining the data input process in production. Its ability to retrieve weight data from the scales and display it in barcode format **saves valuable time** and reduces the **risk of data entry errors**.
 
 To create the executable, use `pyinstaller` in a virtual environment with the packages listed in the `src/requirements.txt` file.
 
